@@ -1,0 +1,91 @@
+/*background image*/
+body
+{
+	background-image: url(../img/oilbg.png);
+	background-size: cover;
+}
+.container
+{
+	height:100%;
+	width:800px;
+
+}
+.contact
+{
+	background-image: url(../img/oil.png);
+	height:500px;
+	background-size:cover;
+}
+.right_map
+{
+	color:black;
+	font-size:45px;
+}
+
+.map
+{
+	height:700px;
+	background-image: url(../img/map.png);
+	background-size: cover;
+}
+
+.headingCU
+{
+	color:yellow;
+	font-size: 50px;
+	font-family: 'PT Serif Caption', serif;
+}
+
+.cuphrase
+{
+	color: white;
+	font-size: 30px;
+	font-family: 'Nova Script', cursive;
+}
+
+.add
+{
+	font-size: 25px;
+}
+.add:hover
+{
+	color:red;
+}
+.add_link
+{
+	color: black;
+}
+.add_link:hover
+{
+	color: red;
+}
+.row2_1
+{
+	height: 180px;
+	width:70%;
+	border: dashed;
+	background-color:white;
+}
+.sub
+{
+	width:100%;
+	height:500px;
+	color:white;
+	background-color:black;
+}
+.msgbx
+{
+	height: 50px;
+	width:350px;
+}
+.frmip
+{
+	background-color: white; 
+	color:black;
+	font-size:25px;
+}
+.join
+{
+	font-size:30px;
+	color: white;
+}

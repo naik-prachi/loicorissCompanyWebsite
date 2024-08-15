@@ -1,0 +1,81 @@
+/*container for background*/
+.container
+{
+	background-image:url(../img/bg.jpg);background-size: cover;width: 101%;height: 98%;
+}
+/*heading 1*/
+.h1
+{
+	opacity: 0.9;font-family: 'PT Serif', serif; font-size: 150px;color: white;
+}0
+.h2
+{
+	opacity: 0.9;font-family: 'PT Serif', serif;font-size: 30px;color: white;
+}
+.loginhead
+{
+	margin-top: 283px;overflow: hidden;height: 280px;
+}
+.loginhead:hover,.loginhead:active{transform: 1.15;overflow: visible;color: black;}
+.space 
+{
+	height: 40px;width: 100%;
+}
+.bspace
+{
+	height: 167px;
+}
+.des
+{
+	color: white;font-size: 20px;font-family: 'PT Serif', serif;
+}
+.abtcontainer
+{
+	width: 100%;
+}
+.abtus
+{
+	height: 650px;background-color: blue;background-image:url(../img/abt.png);background-size: cover;
+	background-attachment: fixed;background-repeat: no-repeat;
+}
+.abtcaption
+{
+	font-size: 25px;
+	color: red;
+	font-family: 'Kaushan Script', cursive;
+}
+.heading1
+{
+	/*font-family: 'PT Serif', serif;*/font-size: 80px;margin-top: 200px;color: black;
+	font-family: 'Cinzel', serif;
+}
+.imgabtus
+{
+	margin-left: 50px;margin-top: 30px;margin-bottom: 30px;
+	height:500px;
+	width:300px;
+}
+.list
+{
+	font-size:22px; 
+}
+.contentc
+{
+	font-size: 26px;
+	font-family: 'Slabo 27px', serif;
+}
+.contenth
+{
+	font-size: 35px;
+	font-family: 'Bitter', serif;
+}
+.next
+{
+	height: 650px;background-image: url(../img/oil.png);background-size: cover;background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+.next1
+{
+	height: 700px;background-image: url(../img/cp2.jpg);background-size: cover;background-attachment: fixed;
+	background-repeat: no-repeat;
+}

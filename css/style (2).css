@@ -1,0 +1,116 @@
+/*Home Page*/
+
+/*container for background*/
+.container
+{
+	background-image:url(../img/bg.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
+/*heading 1*/
+.h1
+{
+	opacity: 0.9;
+	font-family: 'PT Serif', serif; 
+	font-size: 150px;
+	color: white;
+}
+/*heading 2*/
+.h2
+{
+	opacity: 0.9;font-family: 'PT Serif', serif;font-size: 35px;color: black;
+}
+/*Heading in about us*/
+.loginhead
+{
+	margin-top: 283px;overflow: hidden;height: 280px;
+}
+/*hover effect for the heading in about us*/
+.loginhead:hover,.loginhead:active
+{
+	transform: 1.15;overflow: visible;color: black;
+}
+/*Space at the Top*/
+.space 
+{
+	height: 40px;width: 100%;
+}
+/*Space at the Bottom*/
+.bspace
+{
+	height: 167px;
+}
+/*description for company name*/
+.des
+{
+	color: white;font-size: 30px;font-family: 'PT Serif', serif;
+}
+
+/*About Us Page*/
+/*Container for about us*/
+.abtcontainer
+{
+	width: 100%;
+}
+/*Heading 'about us'*/
+.abtus
+{
+	height: 650px;background-color: yellow;background-image:url(../img/abt.png);background-size: cover;
+	background-attachment: fixed;background-repeat: no-repeat;
+}
+/*Caption for about us*/
+.abtcaption
+{
+	font-size: 25px;
+	color: red;
+	font-family: 'Kaushan Script', cursive;
+}
+/*Headings*/
+.heading1
+{
+	/*font-family: 'PT Serif', serif;*/
+	font-size: 80px;
+	margin-top: 200px;
+	text-align: center;
+	color: black;
+	font-family: 'Cinzel', serif;
+}
+/*Images*/
+.imgabtus
+{
+	margin-left: 50px;margin-top: 30px;margin-bottom: 30px;
+	height:500px;
+	width:300px;
+}
+/*Why loicoriss points*/
+.list
+{
+	font-size:22px; 
+}
+/*Content under the header*/
+.contentc
+{
+	font-size: 26px;
+	font-family: 'Slabo 27px', serif;
+}
+/*Content header*/
+.contenth
+{
+	font-size: 35px;
+	font-family: 'Bitter', serif;
+}
+/*Paralax effect*/
+.next
+{
+	height: 650px;background-image: url(../img/oil.png);background-size: cover;background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+/*Paralax effect*/
+.next1
+{
+	height: 700px;background-image: url(../img/cp2.jpg);background-size: cover;background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+
